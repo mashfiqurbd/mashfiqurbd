@@ -12,11 +12,9 @@
 
 - **⚡ Fun fact: I use tabs over spaces**
 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mashfiqurbd&&style=flat-square" align="center" />
 </div>  
-<br/>  
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -28,7 +26,7 @@
   <a href="https://github.com/mashfiqurbd">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mashfiqurbd&show_icons=true&theme=algolia&count_private=true">
   </a>
-  <a href="https://github.com/evilprince2009">
+  <a href="https://github.com/mashfiqurbd">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashfiqurbd&layout=compact&theme=algolia&langs_count=6" />
   </a>
   <a href="https://github.com/mashfiqurbd">
