@@ -29,6 +29,7 @@
   <a href="https://github.com/mashfiqurbd">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashfiqurbd&layout=compact&theme=algolia&langs_count=6" />
   </a>
+  <hr>
   <a href="https://github.com/mashfiqurbd">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mashfiqurbd&theme=react-dark&hide_title=true&hide_border=true&area=true" />
   </a>
