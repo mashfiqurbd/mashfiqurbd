@@ -1,4 +1,4 @@
-### **<div align="center">I'm Md. Mashfiqur Rahman, a full-stack web developer 👨‍💻 using Linux since 2017 🚀</div>**  
+## **<div align="center">I'm Md. Mashfiqur Rahman, a full-stack web developer 👨‍💻 using Linux since 2017 🚀</div>**  
   
 
 - **🔭 I’m currently working on [GitHub](https://github.com/mashfiqurbd)**  
@@ -12,7 +12,32 @@
 
 - **⚡ Fun fact: I use tabs over spaces**
 
-![IMG_1918](https://user-images.githubusercontent.com/49743288/138299312-b4a73c15-ead2-463a-80eb-91b36989ed26.JPG)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mashfiqurbd&&style=flat-square" align="center" />
+</div>  
+<br/>  
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashfiqurbd&theme=algolia&hide_border=true"/>
+</p>
+
+ <p align="center">
+  <a href="https://github.com/mashfiqurbd">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mashfiqurbd&show_icons=true&theme=algolia&count_private=true">
+  </a>
+  <a href="https://github.com/evilprince2009">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mashfiqurbd&layout=compact&theme=algolia&langs_count=6" />
+  </a>
+  <a href="https://github.com/mashfiqurbd">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mashfiqurbd&theme=react-dark&hide_title=true&hide_border=true&area=true" />
+  </a>
+</p>
+
+## 👉 Visit my [Portfolio](https://mashfiqurbd.github.io) 🦅
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -83,27 +108,5 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-<br/>  
-
-
-## Recent Blog Posts  
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-### GitHub Status
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashfiqurbd&show_icons=true&theme=radical)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiqurbd&theme=blue-green)
+  <br>
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
