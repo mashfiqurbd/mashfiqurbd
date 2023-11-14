@@ -35,6 +35,9 @@
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mashfiqurbd&theme=react-dark&hide_title=true&hide_border=true&area=true" />
   </a>
 </p>
+<h1>Github Status</h1>
+  
+![image](https://github.com/mashfiqurbd/mashfiqurbd/assets/49743288/54efd72c-6314-43db-85af-09544bd0dd96)
 
 ## 👉 Visit my [Portfolio](https://mashfiqurbd.github.io) 🦅
 
